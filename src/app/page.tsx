@@ -54,7 +54,7 @@ export default function Home() {
 
         {/* GitHub Link */}
         <a
-          href="https://github.com/mohsen-alizadeh/bodo"
+          href="https://github.com/bodo-run/bodo"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center px-6 py-3 rounded-full bg-gray-900 dark:bg-white text-white dark:text-gray-900 hover:bg-gray-800 dark:hover:bg-gray-100 transition-colors font-[family-name:var(--font-geist-sans)]"
